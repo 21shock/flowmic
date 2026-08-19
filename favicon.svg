@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Flowmic">
+  <rect width="64" height="64" fill="#f3ede6"/>
+  <path d="M12 28c2-10 38-10 40 0 1 8-8 18-20 18S11 36 12 28z" fill="none" stroke="#1f1a16" stroke-width="2.4"/>
+  <path d="M22 46h20" stroke="#b56a4a" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
