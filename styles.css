@@ -208,7 +208,10 @@ h2 {
 }
 
 .story-title {
+  font-family: "Noto Serif KR", var(--serif-kr), serif;
+  font-weight: 400;
   font-size: clamp(1.4rem, 2.8vw, 2.17rem);
+  color: #6a6560;
 }
 
 h3 {
@@ -388,10 +391,20 @@ h3 {
 }
 
 .story-text {
-  padding: clamp(3rem, 7vw, 6rem) var(--pad);
+  padding: 2.4cm var(--pad) clamp(2rem, 5vw, 4rem);
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
+  font-family: "Noto Serif KR", var(--serif-kr), serif;
+  color: #6a6560;
+}
+
+.story-text .eyebrow,
+.story-text p,
+.story-text .note {
+  font-family: "Noto Serif KR", var(--serif-kr), serif;
+  font-weight: 400;
+  color: #6a6560 !important;
 }
 
 .story-figure {
@@ -406,9 +419,9 @@ h3 {
 }
 
 .note {
-  font-family: var(--serif);
-  font-style: italic;
-  color: var(--ink) !important;
+  font-family: "Noto Serif KR", var(--serif-kr), serif;
+  font-style: normal;
+  color: #6a6560 !important;
 }
 
 
