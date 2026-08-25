@@ -346,6 +346,10 @@ h3 {
   align-items: start;
 }
 
+.collection .grid {
+  width: 80%;
+}
+
 .card {
   background: var(--paper);
 }
