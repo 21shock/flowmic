@@ -146,7 +146,7 @@ a {
   display: flex;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 2.2rem 0.6rem 1.5rem 0;
+  padding: 2.2rem 0.6rem 0.7rem 0;
   overflow: hidden;
 }
 
@@ -163,7 +163,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 2.2rem var(--pad) clamp(1.2rem, 3vw, 2.4rem) calc(var(--pad) * 0.45);
+  padding: 2.2rem var(--pad) 0.7rem calc(var(--pad) * 0.45);
 }
 
 .eyebrow {
@@ -261,7 +261,7 @@ h3 {
 }
 
 .band {
-  padding: 1.1rem var(--pad) 0.55rem;
+  padding: 0.55rem var(--pad);
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
   text-align: center;
