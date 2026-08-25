@@ -277,12 +277,13 @@ h3 {
 
 .firing-grid {
   list-style: none;
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.45rem;
-  max-width: 46rem;
+  gap: 0.35rem;
+  width: 50%;
+  max-width: 23rem;
 }
 
 .firing-grid figure {
@@ -486,7 +487,8 @@ h3 {
   }
 
   .firing-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    width: 70%;
     max-width: none;
   }
 
