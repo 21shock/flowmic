@@ -265,10 +265,12 @@ h3 {
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
   text-align: center;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  font-size: 1.56rem;
-  color: var(--ink-soft);
+  font-family: "Noto Serif KR", var(--serif-kr), serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #6a6560;
 }
 
 .process,
