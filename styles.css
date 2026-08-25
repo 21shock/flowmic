@@ -172,6 +172,10 @@ a {
   color: var(--clay);
 }
 
+.collection .eyebrow {
+  font-size: 1.014rem;
+}
+
 h1,
 h2,
 h3 {
