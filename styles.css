@@ -325,11 +325,10 @@ h3 {
 .firing h2,
 .firing-title {
   font-family: "Noto Serif KR", var(--serif-kr), serif;
-  font-size: 1.25rem;
   font-weight: 400;
-  color: #6a6560;
+  font-size: 0.875rem;
   letter-spacing: 0.04em;
-  margin-bottom: 0.35rem;
+  color: #a8a29c;
 }
 
 .firing-grid {
