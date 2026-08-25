@@ -558,6 +558,11 @@ h3 {
     min-width: 0;
   }
 
+  .hero-figure {
+    justify-content: flex-start;
+    padding: 1.4rem var(--pad) 0.7rem;
+  }
+
   .story-figure img {
     min-height: 18rem;
   }
