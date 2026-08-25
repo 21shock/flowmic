@@ -149,11 +149,12 @@ a {
 }
 
 .hero-figure img {
-  width: 70%;
+  width: 77%;
   height: auto;
-  max-height: 70vh;
+  max-height: 77vh;
   object-fit: contain;
   min-height: 0;
+  border-radius: 1.5rem;
 }
 
 .hero-copy {
