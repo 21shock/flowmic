@@ -261,6 +261,7 @@ h3 {
 }
 
 .band {
+  margin-top: 1.5cm;
   padding: 0.55rem var(--pad);
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
