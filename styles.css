@@ -335,19 +335,6 @@ h3 {
   color: var(--ink) !important;
 }
 
-.shelf {
-  margin: 0;
-}
-
-.shelf figure {
-  margin: 0;
-}
-
-.shelf img {
-  width: 100%;
-  max-height: 36rem;
-  object-fit: cover;
-}
 
 .steps {
   list-style: none;
