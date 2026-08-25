@@ -225,6 +225,11 @@ h3 {
   font-size: 1.45rem;
 }
 
+.card-body h3 {
+  font-size: 1.23rem;
+  color: #6a6560;
+}
+
 .lede,
 .section-head p,
 .story-text p,
