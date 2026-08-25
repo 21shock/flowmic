@@ -261,6 +261,7 @@ h3 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.5rem 1.25rem;
+  align-items: start;
 }
 
 .card {
@@ -271,6 +272,13 @@ h3 {
   margin: 0;
   overflow: hidden;
   aspect-ratio: 4 / 3;
+}
+
+.card figure.card-pair {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  aspect-ratio: 2 / 3;
+  gap: 2px;
 }
 
 .card img {
